@@ -28,7 +28,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-        <div class='text-center'><a href="#"><img src="<?php echo base_url().'assets/img/logo.png'; ?>" style="height:55px;"/></a></div>
+        <div class='text-center'><a href="#"></a></div>
         </div>
       <div class="collapse navbar-collapse text-center" id="b-menu-1">
           <ul style='margin-top:5px;' class="nav navbar-nav navbar-right font-nav ">
